@@ -3,9 +3,10 @@
 
 ![content/posts/lelunga-banner-website-min.jpg](content/posts/lelunga-banner-website-min.jpg)
 
-Welcome to a tapestry of thoughts, where my words dance across diverse landscapes. Explore the array of topics that paint the pages below. Click on the links and join me on this journey of exploration and expression.
+Selamat datang di blog lelunga!
+Simak cerita-cerita perjalanan menarik di halaman ini.
 
-# Table of contents
+# Daftar Isi
 
 - ## [Conquering Mount Rinjani: A Journey of Majestic Heights and Breathtaking Beauty of West Nusa Tenggara](/posts/rinjani)
 - ## [(ID)Petualangan Epik Menaklukan Rinjani, Puncak Tertinggi Nusa Tenggara beserta Persiapan dan Estimasi Biaya](https://www.klikaktual.com/travel-lifestyle/669960297/petualangan-epik-menaklukan-rinjani-puncak-tertinggi-nusa-tenggara-beserta-persiapan-dan-estimasi-biaya)
