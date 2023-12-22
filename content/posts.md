@@ -1,7 +1,7 @@
 ---
 ---
 
-![the-writings.jpg](the-writings.jpg)
+![content/posts/lelunga-banner-website-min.jpg](content/posts/lelunga-banner-website-min.jpg)
 
 Welcome to a tapestry of thoughts, where my words dance across diverse landscapes. Explore the array of topics that paint the pages below. Click on the links and join me on this journey of exploration and expression.
 
