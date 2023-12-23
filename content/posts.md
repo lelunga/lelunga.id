@@ -1,11 +1,9 @@
 ---
 ---
 
-![lelunga-banner-website-min.jpg](lelunga-banner-website-min.jpg)
+![banner-blog.jpg](banner-blog.jpg)
 
 Selamat datang di blog lelunga!
 Simak cerita-cerita perjalanan menarik di halaman ini.
 
-# Daftar Isi
-
-- ## [Panduan trekking Independen 5 Hari - 4 Malam (5H4M) di Annapurna Base Camp (ABC), Nepal](/posts/trekking-independen-ke-annapurna-base-camp)
+- ### [Panduan trekking Independen 5 Hari - 4 Malam (5H4M) di Annapurna Base Camp (ABC), Nepal](/posts/trekking-independen-ke-annapurna-base-camp)
