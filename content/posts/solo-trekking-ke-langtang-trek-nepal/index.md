@@ -29,14 +29,14 @@ Umumnya Langtang Trek membutuhkan 4-5 hari atau lebih, tergantung kondisi fisik 
 
 ### Hari Pertama menuju Sybaru Besi
 
-[!PXL_20231213_160757144.jpeg](PXL_20231213_160757144.jpeg)
+![PXL_20231213_160757144.jpeg](PXL_20231213_160757144.jpeg)
 
 Meski ada pilihan Bus dengan jadwal lebih banyak dari [Macha Pokhari, Kathmandu](https://maps.app.goo.gl/4H1JfwLTM3q2vQVd9) untuk menuju titik awal trekking ke Sybaru Besi. Pengalaman pribadi sayy sangat merekomendasikan untuk ikut dalam sharing jeep yang mana tiket konternya tidak jauh dari terminal Bus. Tiket juga bisa dipesan melalui telepon ke nomor +9779841084610. Alasan utama adalah waktu tempuh yang lebih cepat dibanding Bus. Bus juga akan mengambil sebanyak mungkin penumpang sepanjang perjalanan, sehingga mengurangi 
 kenyamanan. Biasanya Jeep akan berangkat dari Pukul 07:30 am dan tiba sekitar pukul 14:00 WIB.
 
 ### Mendapatkan Tiket Untuk Trekking Di Dunche
 
-[!PXL_20231214_071019061.MP.jpg](PXL_20231214_071019061.MP.jpg)
+![PXL_20231214_071019061.MP.jpg](PXL_20231214_071019061.MP.jpg)
 
 Sebelum sampai Syabru Besi, Jeep akan melewati beberapa pos pengecekan militer, yang mana Supir akan meminta passport untuk diperlihatkan. Ini dikarenakan kita akan menuju area perbatasan dengan Tibet.
 
@@ -53,7 +53,7 @@ Rute trek Langtang biasanya dimulai dari desa Syabru Besi dan melibatkan perjala
 
 **Di hari ketiga**, saya memulai trekking sangat pagi, karena berkeinginan untuk menikmati sunrise dari puncak Kyanjin Ri pada ketinggian 4,773 meter di atas permukaan laut.
 
-[!PXL_20231216_011004806~2.jpg](PXL_20231216_011004806~2.jpg)
+![PXL_20231216_011004806~2.jpg](PXL_20231216_011004806~2.jpg)
 Setelah puas menikmati keindahan dari atas, saya lantas turun ke penginapan untuk sarapan dan kemudian melanjutkan perjalanan pulang ke Pos awal: **Syabru Besi**. 
 
 Di Syabru besi, saya memutuskan menginal di Hotel untuk kemudian pulang ke Kathmandu di keesokan harinya.
