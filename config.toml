@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "lelunga.jpg"  # path relative to static directory
 
   links = [
-      { "blog" = { href = "/posts", text = "Read Travel Stories on our Blog" } },
+      { "blog" = { href = "/posts", text = "Read Travel Stories on our Blog" }},
       { linkedin = "https://linkedin.com/company/lelunga" },
       { instagram = "https://instagram.com/lelunga.id" },
       { facebook = "https://www.facebook.com/lelunga.id" },
