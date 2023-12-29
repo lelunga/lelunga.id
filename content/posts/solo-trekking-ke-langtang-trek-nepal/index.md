@@ -3,7 +3,7 @@ title: "Solo Trekking Langtang Trek, Nepal "
 date: 2023-12-29
 cover:
 ---
-![DSC02037-EDIT.jpg](DSC02037-EDIT.jpg)
+![PXL_20231215_103652543-EDIT.jpg](PXL_20231215_103652543-EDIT.jpg)
 
 Langtang Trek adalah salah satu perjalanan trekking paling menarik di Nepal yang menawarkan pengalaman mendalam dalam keindahan alam Himalaya, budaya lokal, dan petualangan di pegunungan yang menakjubkan. Langtang Trek terletak di wilayah tengah Himalaya Nepal, di sebelah utara ibu kota Kathmandu. Wilayah ini mencakup Taman Nasional Langtang, yang menjadi rumah bagi berbagai kehidupan liar dan komunitas penduduk setempat.
 
@@ -25,7 +25,7 @@ Umumnya Langtang Trek membutuhkan 4-5 hari atau lebih, tergantung kondisi fisik 
 
 ### Hari Pertama menuju Sybaru Besi
 
-[!PXL_20231213_160757144.jpg](PXL_20231213_160757144.jpg)
+[!PXL_20231213_160757144.jpeg](PXL_20231213_160757144.jpeg)
 
 Meski ada pilihan Bus dengan jadwal lebih banyak dari [Macha Pokhari, Kathmandu](https://maps.app.goo.gl/4H1JfwLTM3q2vQVd9) untuk menuju titik awal trekking ke Sybaru Besi. Pengalaman pribadi sayy sangat merekomendasikan untuk ikut dalam sharing jeep yang mana tiket konternya tidak jauh dari terminal Bus. Tiket juga bisa dipesan melalui telepon ke nomor +9779841084610. Alasan utama adalah waktu tempuh yang lebih cepat dibanding Bus. Bus juga akan mengambil sebanyak mungkin penumpang sepanjang perjalanan, sehingga mengurangi 
 kenyamanan. Biasanya Jeep akan berangkat dari Pukul 07:30 am dan tiba sekitar pukul 14:00 WIB.
