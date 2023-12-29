@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
       { facebook = "https://www.facebook.com/lelunga.id" },
       { twitter = "https://twitter.com/lelunga_id" },
       { tiktok = "https://www.tiktok.com/@lelunga.id" },
-      { "blog" = { href = "/posts", text = "Blog" } },
+      { "blog" = { href = "/posts", text = "Read Travel Stories on our Blog" } },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
