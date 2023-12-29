@@ -1,7 +1,7 @@
 ---
 ---
 
-![banner.png]
+![banner.png](banner.png)
 
 Selamat datang di blog lelunga!
 Simak cerita-cerita perjalanan menarik di halaman ini.
