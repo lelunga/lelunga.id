@@ -14,12 +14,12 @@ disableKinds = ["taxonomy", "term"]
   image = "lelunga.jpg"  # path relative to static directory
 
   links = [
+      { "blog" = { href = "/posts", text = "Read Travel Stories on our Blog" } },
       { linkedin = "https://linkedin.com/company/lelunga" },
       { instagram = "https://instagram.com/lelunga.id" },
       { facebook = "https://www.facebook.com/lelunga.id" },
       { twitter = "https://twitter.com/lelunga_id" },
       { tiktok = "https://www.tiktok.com/@lelunga.id" },
-      { "blog" = { href = "/posts", text = "Read Travel Stories on our Blog" } },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
