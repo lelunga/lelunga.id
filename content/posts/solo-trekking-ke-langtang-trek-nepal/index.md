@@ -7,7 +7,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
     linkFullImages: true
 ---
-![content/posts/solo-trekking-ke-langtang-trek-nepal/PXL_20231215_103652543-EDIT.jpeg](content/posts/solo-trekking-ke-langtang-trek-nepal/PXL_20231215_103652543-EDIT.jpeg)
+![PXL_20231215_103652543-EDIT.jpeg](PXL_20231215_103652543-EDIT.jpeg)
 
 Langtang Trek adalah salah satu perjalanan trekking paling menarik di Nepal yang menawarkan pengalaman mendalam dalam keindahan alam Himalaya, budaya lokal, dan petualangan di pegunungan yang menakjubkan. Langtang Trek terletak di wilayah tengah Himalaya Nepal, di sebelah utara ibu kota Kathmandu. Wilayah ini mencakup Taman Nasional Langtang, yang menjadi rumah bagi berbagai kehidupan liar dan komunitas penduduk setempat.
 
