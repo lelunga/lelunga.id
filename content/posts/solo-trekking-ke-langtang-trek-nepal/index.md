@@ -1,7 +1,11 @@
 ---
 title: "Solo Trekking Langtang Trek, Nepal "
-date: 2023-12-29
+date: 2023-12-28
 cover:
+    image: "DSC02037-EDIT.jpg"
+    caption: "https://instagram.com/lelunga.id"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
+    linkFullImages: true
 ---
 ![PXL_20231215_103652543-EDIT.jpg](PXL_20231215_103652543-EDIT.jpg)
 
